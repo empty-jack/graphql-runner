@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "global-agent": "^3.0.0",
+    "global-tunnel-ng": "^2.7.1",
+    "graphql": "^0.13.2",
+    "graphql-request": "^3.4.0",
+    "graphql-tag": "^2.11.0",
+    "should": "^13.2.3"
+  },
+  "scripts": {
+    "start": "node scanner"
+  }
+}
