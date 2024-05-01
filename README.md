@@ -1,4 +1,4 @@
-# graphql-ffuz
+# graphql-runner
 
 To start you journey generate GQL queries, mutations and subscriptions with the popular tool `gqlg`:
 
